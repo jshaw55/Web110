@@ -1,0 +1,21 @@
+/*Jillian Shaw CSS for Lottery page*/
+body{
+    background-image: url(backgroundpink.jpg);
+    background-repeat: repeat-y repeat-x;
+    color:rgb(255, 255, 255);
+    font-family:"Besley", sans-serif;
+}
+
+blockquote{
+    background: #ffd59e;
+background: radial-gradient(circle, rgba(255, 213, 158, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+header{
+    color:greenyellow;
+    text-align: center;
+}
+img{
+    border-radius: 40px;
+    border: 4px dotted #171703;
+    box-shadow: 10px 10px 5px #b00d7d;
+}
