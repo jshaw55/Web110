@@ -39,5 +39,5 @@ nav{
 main{
     font-weight: bold;
     background-image: url(background.jpg);
-    background-repeat: repeat-x;
+    background-repeat: repeat-x repeat-y;
 }
